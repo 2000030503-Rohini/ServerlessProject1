@@ -1,1 +1,2 @@
-# ServerlessProject1
+### Github Repo
+https://github.com/mjzone/bookstore-v2
